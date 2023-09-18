@@ -15,3 +15,5 @@ Olá, bem-vindo ao meu projeto Alura Plus, realizado em conjunto com a instrutor
 ### Moisés Bier
 
 #### Linkedin: https://www.linkedin.com/in/moisesbier/
+
+![Tela inicial do projeto](https://i.imgur.com/Lp1AaGJ.png)
