@@ -1,6 +1,6 @@
-Alura Plus
+# Alura Plus
 
-# Olá, bem-vindo ao meu projeto Alura Plus, realizado em conjunto com a instrutora Mônica Mazzochi Hillman.
+Olá, bem-vindo ao meu projeto Alura Plus, realizado em conjunto com a instrutora Mônica Mazzochi Hillman.
 
 ## Ferramentas utilizadas:
 
