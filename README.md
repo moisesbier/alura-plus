@@ -10,8 +10,8 @@ Olá, bem-vindo ao meu projeto Alura Plus, realizado em conjunto com a instrutor
 
 * Figma
 
-## Feito por:
+## Desenvolvido por:
 
 ### Moisés Bier
 
-### Linkedin: https://www.linkedin.com/in/moisesbier/
+#### Linkedin: https://www.linkedin.com/in/moisesbier/
