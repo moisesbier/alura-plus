@@ -8,7 +8,7 @@ Olá, bem-vindo ao meu projeto Alura Plus, realizado em conjunto com a professor
 
 * CSS
 
-* FlexBox
+* Flex-box
 
 * Figma
 
