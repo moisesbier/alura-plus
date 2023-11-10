@@ -1,12 +1,14 @@
 # Alura Plus
 
-Olá, bem-vindo ao meu projeto Alura Plus, realizado em conjunto com a instrutora Mônica Mazzochi Hillman.
+Olá, bem-vindo ao meu projeto Alura Plus, realizado em conjunto com a professora Mônica Mazzochi Hillman.
 
 ## Ferramentas utilizadas:
 
 * HTML
 
 * CSS
+
+* FlexBox
 
 * Figma
 
@@ -17,3 +19,5 @@ Olá, bem-vindo ao meu projeto Alura Plus, realizado em conjunto com a instrutor
 #### Linkedin: https://www.linkedin.com/in/moisesbier/
 
 ![Tela inicial do projeto](https://i.imgur.com/Lp1AaGJ.png)
+
+>Versão final
